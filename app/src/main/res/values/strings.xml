@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BMI CALC</string>
+    <string name="weight">WEIGHT (in KG) :</string>
+    <string name="height">HEIGHT (in M) :</string>
+    <string name="weightHint">Enter your weight</string>
+    <string name="heightHint">Enter your height</string>
+    <string name="bmibutton">GET BMI</string>
+    <string name="defaultOutput">your BMI</string>
+    <string name="title">==_BMI CALCULATOR_==</string>
+    <string name="firstbutto">_CHECK HERE_</string>
+    <string name="nameHint">Enter your Name</string>
+    <string name="ageHint">Enter your age</string>
+    <string name="bloodGroupHint">Enter your bloodGroup</string>
+    <string name="dobHint">Enter your DOB</string>
+
+</resources>
+
